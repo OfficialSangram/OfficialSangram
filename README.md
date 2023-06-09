@@ -9,5 +9,6 @@
 - Standard 12th 
 
 
-## Status
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=OfficialSangram&show_icons=true&theme=radical)
+# Social Media
+
+<a href="https://t.me/Sangram_Piro"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/Sangramsahu55"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://youtube.com/@Feelings_of_My_Hearts"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>    
