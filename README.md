@@ -19,4 +19,5 @@
 ## 📊 &nbsp;My Bots
  Here is my all bots
 
-<a href="https://t.me/SexyQueenROBot"><img src="https://img.shields.io/badge/Check-Queen%20Robot-blue.svg?style=for-the-badge&logo=Telegram"></a> <a 
+<a href="https://t.me/SexyQueenROBot"><img src="https://img.shields.io/badge/Check-Queen%20Robot-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/RedWine_MusicBot"><img src="https://img.shields.io/badge/Check-RedWine%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a>
