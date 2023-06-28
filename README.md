@@ -8,6 +8,8 @@
 - I live in India 🇮🇳, Odisha.
 - Standard 12th 
 
+[![Official Sangram](https://github-stats-alpha.vercel.app/api?username=OfficialSangram "Official Sangram")](https://github-stats-alpha.vercel.app/api?username=OfficialSangram "Official Sangram")
+
 
 # Social Media
 
